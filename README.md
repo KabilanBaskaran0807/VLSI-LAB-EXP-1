@@ -155,7 +155,8 @@ endmodule
 ```
 # OUTPUT:
 # OR gate:
-(https://github.com/KabilanBaskaran0807/VLSI-LAB-EXP-1/assets/166724685/d5be39b7-775d-4d61-a3ed-396ab736b821)
+![image](https://github.com/KabilanBaskaran0807/VLSI-LAB-EXP-1/assets/166724685/78287d03-bd28-451e-a6f5-3b90a3241f23)
+
 
 
 NOT gate:
