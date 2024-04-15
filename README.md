@@ -1,6 +1,6 @@
 # VLSI-LAB-EXPERIMENTS
 # AIM:
-To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
+To simulate and synthesis Logic Gates,Adders and Subtractor using vivado
 
 # APPARATUS REQUIRED:
 Vivado
@@ -24,7 +24,7 @@ Vivado
 
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-Logic Diagram :
+# Logic Diagram :
 
 Logic Gates:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
@@ -59,7 +59,7 @@ Full Subtractor:
 
 
 # VERILOG CODE:
-# Program
+
 # Logic Gates:
 ```
 module logicgate (a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate);
