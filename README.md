@@ -1,4 +1,5 @@
-# VLSI-LAB-EXPERIMENTS
+# VLSI-LAB-EXPERIMENTS 1
+# SIMULATION AND IMPLEMENTATION OF LOGIC GATES, ADDERS & SUBTRACTOR
 # AIM:
 To simulate and synthesis Logic Gates,Adders and Subtractor using vivado
 
